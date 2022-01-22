@@ -1,3 +1,3 @@
-# typescriptCourse
+# Typescript
 
  Typescript by Maximilian
